@@ -8,6 +8,9 @@ body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
 }
+#width {
+  width: 100vh;
+}
 
 img {
   width: 100%;
